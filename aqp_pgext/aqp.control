@@ -1,0 +1,7 @@
+comment = 'OptiAQP'
+default_version = '0.0.1'
+module_pathname = '$libdir/aqp'
+relocatable = false  # The plan rewriter will assume dummy functions are placed
+                     # in a specific schema aqp currently.
+                     # TODO: find ways to make it relocatable?
+schema = 'aqp'
