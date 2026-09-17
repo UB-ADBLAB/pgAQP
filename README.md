@@ -1,7 +1,7 @@
 pgAQP: A PostgreSQL extension for approximate query processing
 ======================
 # Overview
-This is the code base for OptiAQP: Index-Assisted Stratified Sampling for Online Aggregation (ICDE '27) [arXiv preprint](https://arxiv.org/abs/2604.28141). In this work, we design optimized index-assisted stratified sampling method for online aggregation style approximate query processing.
+This is the code base for OptiAQP: Index-Assisted Stratified Sampling for Online Aggregation (ICDE '27) [arXiv preprint](https://arxiv.org/abs/2604.28141). In this work, we design optimized index-assisted stratified sampling method for online aggregation style approximate query processing. This improves approximate query latency when there is high data variance and/or selective predicates.
 
 # Environment
 
@@ -42,5 +42,8 @@ installation path to the `PATH` environment variable.
 
 7. Queries used in the experiments are under queries.
 
+# Contacts
 
+- Yunnan Yu (yunnanyu [at] buffalo [dot] edu)
+- Zhuoyue Zhao (zzhao35 [at] buffalo [dot] edu)
 
