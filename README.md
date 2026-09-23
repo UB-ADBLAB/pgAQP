@@ -45,5 +45,6 @@ installation path to the `PATH` environment variable.
 # Contacts
 
 - Yunnan Yu (yunnanyu [at] buffalo [dot] edu)
+- Al Amin Tushar (alamintu [at] buffalo [dot] edu)
 - Zhuoyue Zhao (zzhao35 [at] buffalo [dot] edu)
 
